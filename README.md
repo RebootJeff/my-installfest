@@ -6,8 +6,10 @@
   - [Advanced REST Client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US) (extension)
   - Maybe disable cache while DevTools is open (in DevTools settings)
   - Maybe disable "prefetch resources" (in advanced settings)
+  - Configure browser startup to "continue where you left off"
 - Mozilla Firefox Developer Edition
   - Maybe enable tracking protection (in `about:config` settings)
+  - Configure browser startup to "show windows and tabs from last time"
 - [SizeUp](http://www.irradiatedsoftware.com/sizeup/) (Mac OS window manager)
 - [iTerm2](https://www.iterm2.com/)
 - [Atom](https://atom.io/) (text editor)
