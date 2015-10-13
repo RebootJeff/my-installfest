@@ -11,6 +11,7 @@
 - [SizeUp](http://www.irradiatedsoftware.com/sizeup/) (Mac OS window manager)
 - [iTerm2](https://www.iterm2.com/)
 - [Atom](https://atom.io/) (text editor)
+  - Install packages: minimap, pigments, linter, linter-htmlhint, linter-csslint, linter-jshint, etc.
 - [Git](https://git-scm.com/)
 
 ## Command Line Installations
