@@ -3,7 +3,7 @@
 ## Downloads
 
 - Google Chrome
-  - Advanced REST Client (extension)
+  - [Advanced REST Client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US) (extension)
 - Mozilla Firefox Developer Edition
 - [SizeUp](http://www.irradiatedsoftware.com/sizeup/) (Mac OS window manager)
 - [iTerm2](https://www.iterm2.com/)
