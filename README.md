@@ -10,10 +10,12 @@
 - Mozilla Firefox Developer Edition
   - Maybe enable tracking protection (in `about:config` settings)
   - Configure browser startup to "show windows and tabs from last time"
+  - Maybe also install normal Firefox for testing frameworks to use
 - [SizeUp](http://www.irradiatedsoftware.com/sizeup/) (Mac OS window manager)
 - [iTerm2](https://www.iterm2.com/)
 - [Atom](https://atom.io/) (text editor)
   - Install packages: minimap, pigments, linter, linter-htmlhint, linter-csslint, linter-jshint, etc.
+  - Enable "Show Indent Guide" in settings
 - [Git](https://git-scm.com/)
 
 ## Command Line Installations
