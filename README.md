@@ -17,6 +17,7 @@
   - Install packages: minimap, pigments, linter, linter-htmlhint, linter-csslint, linter-jshint, etc.
   - Enable "Show Indent Guide" in settings
 - [Git](https://git-scm.com/)
+  - Configure [author identity](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) via `$ git config --global user.name "John Doe" && git config --global user.email johndoe@example.com`
 
 ## Command Line Installations
 
