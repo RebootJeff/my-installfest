@@ -3,7 +3,7 @@
 ## Downloads
 
 - Google Chrome
-  - [Advanced REST Client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US) (extension)
+  - Extensions: [Advanced REST Client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US), [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc/related?hl=en)
   - Maybe disable cache while DevTools is open (in DevTools settings)
   - Maybe disable "prefetch resources" (in advanced settings)
   - Configure browser startup to "continue where you left off"
@@ -14,7 +14,7 @@
 - [SizeUp](http://www.irradiatedsoftware.com/sizeup/) (Mac OS window manager)
 - [iTerm2](https://www.iterm2.com/)
 - [Atom](https://atom.io/) (text editor)
-  - Install packages: minimap, pigments, linter, linter-htmlhint, linter-csslint, linter-jshint, etc.
+  - Packages: minimap, pigments, linter, linter-htmlhint, linter-csslint, linter-jshint, atom-beautify, etc.
   - Enable "Show Indent Guide" in settings
 - [Git](https://git-scm.com/)
   - Configure [author identity](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) via `$ git config --global user.name "John Doe" && git config --global user.email johndoe@example.com`
