@@ -1,4 +1,4 @@
-# Installations
+# App Installations & App Configs
 
 ## Downloads
 
@@ -12,7 +12,12 @@
   - Configure browser startup to "show windows and tabs from last time"
   - Maybe also install normal Firefox for testing frameworks to use
 - [SizeUp](http://www.irradiatedsoftware.com/sizeup/) (Mac OS window manager)
+  - Configure shortcuts (e.g., `CTRL + OPT + CMD + M` = maximize window)
+  - Disable some shortcuts (e.g., `CTRL + CMD + UP Arrow` interferes with code editor shortcut)
 - [iTerm2](https://www.iterm2.com/)
+  - Set left `option` key to act as `+Esc`
+  - Set working directory to "Reuse previous session's directory"
+  - [Configure shortcuts](https://codingphilosophy.wordpress.com/2013/04/20/move-the-cursor-word-by-word-on-mac-os-x-iterm2/) (e.g., `OPT + LEFT Arrow` = `ESC + B` to move cursor to beginning of word)
 - [Atom](https://atom.io/) (text editor)
   - Packages: minimap, pigments, linter, linter-htmlhint, linter-csslint, linter-jshint, atom-beautify, etc.
   - Enable "Show Indent Guide" in settings
@@ -26,11 +31,7 @@
 - Node [via Homebrew](http://blog.teamtreehouse.com/install-node-js-npm-mac) (via `$ brew install node`)
   - [n](https://github.com/tj/n) (Node version manager) via `$ npm install -g n`
 
-# Config
-
-- iTerm2
-  - Set left `option` key to act as `+Esc`
-  - Set working directory to "Reuse previous session's directory"
+# Machine Config
 - Bash
   - Add colors based on `.bash_profile` [here](http://www.justgoscha.com/programming/2014/03/22/Pimping-my-terminal.html) (customize colors with [this guide](http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim))
   - Define aliases in `.bash_profile` (or create a `.bash_aliases` file that gets imported by `.bash_profile`) to use repo-specific CLI tools rather than globally installing them.
