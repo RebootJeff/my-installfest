@@ -19,7 +19,7 @@
   - Set working directory to "Reuse previous session's directory"
   - [Configure shortcuts](https://codingphilosophy.wordpress.com/2013/04/20/move-the-cursor-word-by-word-on-mac-os-x-iterm2/) (e.g., `OPT + LEFT Arrow` = `ESC + B` to move cursor to beginning of word)
 - [Atom](https://atom.io/) (text editor)
-  - Packages: minimap, pigments, linter, linter-htmlhint, linter-csslint, linter-jshint, atom-beautify, etc.
+  - Packages: minimap, pigments, linter, linter-htmlhint, linter-csslint, linter-jshint, atom-beautify, Sublime-Style-Column-Selection, etc.
   - Enable "Show Indent Guide" in settings
 - [Git](https://git-scm.com/)
   - Configure [author identity](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) via `$ git config --global user.name "John Doe" && git config --global user.email johndoe@example.com`
