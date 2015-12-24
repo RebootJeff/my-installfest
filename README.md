@@ -35,6 +35,7 @@
 
 - Mac OSX
   - Set trackpad preferences
+    - Force Touch trackpads need to enable 3-finger drag via [Accessibility system preferences](https://support.apple.com/en-us/HT204609).
   - Keyboard settings:
     - Disable those god awful smart quotes.
     - Enable full keyboard access to activate more shortcuts [such as tabbing to move focus](http://superuser.com/questions/473143/how-to-tab-between-buttons-on-an-mac-os-x-dialog-box).
