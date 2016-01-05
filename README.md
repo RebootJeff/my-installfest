@@ -42,4 +42,4 @@
 - Bash
   - Add colors based on `.bash_profile` [here](http://www.justgoscha.com/programming/2014/03/22/Pimping-my-terminal.html) (customize colors with [this guide](http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim))
   - Define aliases in `.bash_profile` (or create a `.bash_aliases` file that gets imported by `.bash_profile`) to use repo-specific CLI tools rather than globally installing them.
-    - e.g., `alias gulp="node_modules/.bin/gulp`
+    - e.g., `alias gulp="node_modules/.bin/gulp` (but apparently Gulp automatically gives precedence to local Gulp install over global Gulp install, so maybe aliasing isn't truly necessary)
