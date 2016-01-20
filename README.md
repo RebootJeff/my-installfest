@@ -23,6 +23,7 @@
   - Enable "Show Indent Guide" in settings
 - [Git](https://git-scm.com/)
   - Configure [author identity](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) via `$ git config --global user.name "John Doe" && git config --global user.email johndoe@example.com`
+  - Configure [default text editor](http://stackoverflow.com/questions/33464999/git-permission-denied-when-opening-text-editor). This relies on setting default text editor for Mac OSX (see below).
 
 ## Command Line Installations
 
@@ -40,9 +41,9 @@
     - Disable those god awful smart quotes.
     - Enable full keyboard access to activate more shortcuts [such as tabbing to move focus](http://superuser.com/questions/473143/how-to-tab-between-buttons-on-an-mac-os-x-dialog-box).
   - [Show hidden files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/) via `$ defaults write com.apple.finder AppleShowAllFiles YES`
-- Bash 
   - [Set default text editor](http://apple.stackexchange.com/questions/123833/replace-text-edit-as-the-default-text-editor/220496#220496) to Atom via `$ defaults write com.apple.LaunchServices/com.apple.launchservices.secure LSHandlers -array-add \
 '{LSHandlerContentType=public.plain-text;LSHandlerRoleAll=com.github.atom;}'`
+- Bash 
   - (see `.bash_profile` file in this repo)
   - Add colors based on `.bash_profile` [here](http://www.justgoscha.com/programming/2014/03/22/Pimping-my-terminal.html) (customize colors with [this guide](http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim))
   - Define aliases in `.bash_profile` (or create a `.bash_aliases` file that gets imported by `.bash_profile`)
