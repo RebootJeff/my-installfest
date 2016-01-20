@@ -39,6 +39,7 @@
   - Keyboard settings:
     - Disable those god awful smart quotes.
     - Enable full keyboard access to activate more shortcuts [such as tabbing to move focus](http://superuser.com/questions/473143/how-to-tab-between-buttons-on-an-mac-os-x-dialog-box).
+  - [Show hidden files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/) via `$ defaults write com.apple.finder AppleShowAllFiles YES`
 - Bash 
   - (see `.bash_profile` file in this repo)
   - Add colors based on `.bash_profile` [here](http://www.justgoscha.com/programming/2014/03/22/Pimping-my-terminal.html) (customize colors with [this guide](http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim))
