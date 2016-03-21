@@ -28,6 +28,7 @@
 
 ### [Git](https://git-scm.com/)
 - Configure [author identity](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) via `$ git config --global user.name "John Doe" && git config --global user.email johndoe@example.com`
+  - Consider keeping email address [private from GitHub](https://help.github.com/articles/keeping-your-email-address-private/).
 - Configure default commit message editor [as Atom](http://blog.atom.io/2014/03/13/git-integration.html)
 
 ## Command Line Installations
