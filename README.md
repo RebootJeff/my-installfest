@@ -3,10 +3,10 @@
 ## Downloads
 
 ### Google Chrome
-- Extensions: [Advanced REST Client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US), [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc/related?hl=en)
+- Configure browser startup to "continue where you left off"
 - Maybe disable cache while DevTools is open (in DevTools settings)
 - Maybe disable "prefetch resources" (in advanced settings)
-- Configure browser startup to "continue where you left off"
+- Extensions: [Advanced REST Client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US), [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc/related?hl=en), maybe [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 ### Mozilla Firefox Developer Edition
 - Maybe enable tracking protection (in `about:config` settings)
