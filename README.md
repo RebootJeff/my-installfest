@@ -2,16 +2,17 @@
 
 ## Downloads
 
-### Google Chrome
+### [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 - Configure browser startup to "continue where you left off"
 - Maybe disable cache while DevTools is open (in DevTools settings)
 - Maybe disable "prefetch resources" (in advanced settings)
-- Extensions: [Advanced REST Client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US), [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc/related?hl=en), maybe [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- **Extensions:** [Advanced REST Client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US), [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc/related?hl=en), maybe [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
-### Mozilla Firefox Developer Edition
+### [Mozilla Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 - Maybe enable tracking protection (in `about:config` settings)
 - Configure browser startup to "show windows and tabs from last time"
 - Maybe also install normal Firefox for testing frameworks to use
+- Cool dev tools shown on [MozHacks YouTube channel](https://www.youtube.com/playlist?list=PLo3w8EB99pqLRJBWRCoyGTIrkctoUgB9W)
 
 ### [SizeUp](http://www.irradiatedsoftware.com/sizeup/) (Mac OS window manager)
 - Configure shortcuts (e.g., `CTRL + OPT + CMD + M` = maximize window)
@@ -23,8 +24,8 @@
 - [Configure shortcuts](https://codingphilosophy.wordpress.com/2013/04/20/move-the-cursor-word-by-word-on-mac-os-x-iterm2/) (e.g., `OPT + LEFT Arrow` = `ESC + B` to move cursor to beginning of word)
 
 ### [Atom](https://atom.io/) (text editor)
-- Packages: minimap, pigments, linter, linter-htmlhint, linter-csslint, linter-jshint, atom-beautify, Sublime-Style-Column-Selection, etc.
 - Enable "Show Indent Guide" in settings
+- **Packages:** minimap, pigments, linter, linter-htmlhint, linter-csslint, linter-jshint, atom-beautify, Sublime-Style-Column-Selection, etc.
 
 ## Command Line Installations
 
