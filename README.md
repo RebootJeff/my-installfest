@@ -26,18 +26,19 @@
 - Packages: minimap, pigments, linter, linter-htmlhint, linter-csslint, linter-jshint, atom-beautify, Sublime-Style-Column-Selection, etc.
 - Enable "Show Indent Guide" in settings
 
-### [Git](https://git-scm.com/)
-- Configure [author identity](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) via `$ git config --global user.name "John Doe" && git config --global user.email johndoe@example.com`
-  - Consider keeping email address [private from GitHub](https://help.github.com/articles/keeping-your-email-address-private/).
-- Configure default commit message editor [as Atom](http://blog.atom.io/2014/03/13/git-integration.html)
-
 ## Command Line Installations
 
 ### [Homebrew](http://brew.sh/)
 - Remember to run `$ brew update && brew doctor`
 
+### Git
+- Install via Homebrew: `$ brew install git`
+- Configure [author identity](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) via `$ git config --global user.name "John Doe" && git config --global user.email johndoe@example.com`
+  - Consider keeping email address [private from GitHub](https://help.github.com/articles/keeping-your-email-address-private/).
+- Configure default commit message editor [as Atom](http://blog.atom.io/2014/03/13/git-integration.html)
+
 ### Node 
-- Install [via Homebrew](http://blog.teamtreehouse.com/install-node-js-npm-mac) (via `$ brew install node`)
+- Install [via Homebrew](http://blog.teamtreehouse.com/install-node-js-npm-mac): `$ brew install node`
 - [n](https://github.com/tj/n) (Node version manager) via `$ npm install -g n`
 
 # Machine Config
