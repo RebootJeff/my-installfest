@@ -25,7 +25,7 @@
 
 ### [Atom](https://atom.io/) (text editor)
 - Enable "Show Indent Guide" in settings
-- **Packages:** minimap, pigments, linter, linter-htmlhint, linter-csslint, linter-jshint, atom-beautify, Sublime-Style-Column-Selection, file-icons, etc.
+- **Packages:** minimap, pigments, linter, linter-htmlhint, linter-csslint, linter-eslint, atom-beautify, Sublime-Style-Column-Selection, file-icons, autocomplete-emojis, etc.
 
 ## Command Line Installations
 
