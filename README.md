@@ -42,6 +42,11 @@
 - Install [via Homebrew](http://blog.teamtreehouse.com/install-node-js-npm-mac): `$ brew install node`
 - [n](https://github.com/tj/n) (Node version manager) via `$ npm install -g n`
 
+### Watch command
+- Install via Homebrew: `$ brew install watch`
+- Use in terminal. For example: `$ watch docker-compose ps`
+
+
 # Machine Config
 
 ### Mac OSX
